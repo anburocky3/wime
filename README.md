@@ -1,6 +1,6 @@
 # WIME
 Wifi password recover tool for Windows, Linux, Mac OS.<br></br>
-<img src='https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/etc/play_store_pics/03.png' alt='WIME'/>
+<img src='https://lh3.googleusercontent.com/TRKOqSKmTwcYi-UBK4wWhRcI5zRzXpHVU1YXiujx_dM6Cob8yXbVChsLZZzUDRHDcqYKtZVe_A=w1366-h768-no' alt='WIME'/>
 # Features:
 1. Recover forgotten Wifi network passwords from Windows<br>
 2. Recover forgotten Wifi network passwords from Unix (Linux)<br>
